@@ -22,8 +22,7 @@ professionals.
 |---|---|
 | `full_pipeline_thesis.R` | Complete analytical pipeline: data loading, cleaning, threshold application, information-loss metrics, multivariate analyses and figure generation |
 | `app.R` | Shiny dashboard source code (SafetyLens) |
-| `surveys/` | An exemplary survey version as administered via Microsoft Forms (PDF) |
-| `data/` | All five snonymous response exports from Microsoft Forms (.xls); no personally identifiable information retained |
+| `survey/` | An exemplary survey version as administered via Microsoft Forms (PDF) & all five anonymous response exports from Microsoft Forms (.xls); no personally identifiable information retained |
 | `figures/` | High-resolution PNG exports of all nine figures from Chapters 4 and 5 |
 
 ## Reproducibility
